@@ -4,4 +4,8 @@ I am adding new file
 
 hello
 
+<<<<<<< HEAD
 new world
+=======
+hello new world
+>>>>>>> c3a6e7cb585876316fcaa72fabe6c5e42e253f8b
